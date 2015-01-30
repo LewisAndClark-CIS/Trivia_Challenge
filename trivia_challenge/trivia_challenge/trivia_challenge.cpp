@@ -61,7 +61,7 @@ int _tmain(int argc, _TCHAR* argv[])
 			cin >> player2_answer;
 			if (player2_answer == questions[1][player2_position]){
 				player2_position += 1;
-				cout << "Correct! You are now on space " << player2_position << endl << endl;
+				cout << "Correct! You are now on space " << player2_position + 1 << endl << endl;
 			}
 			else{
 				cout << "YOU'RE WRONG STILL ON THE SAME SPACE HOMIE U RONG DUDE" << endl;
