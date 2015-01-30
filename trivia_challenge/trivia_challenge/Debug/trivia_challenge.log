@@ -1,0 +1,15 @@
+﻿Build started 1/30/2015 2:12:28 AM.
+Project "C:\Users\IEUser\Documents\Visual Studio 2013\Projects\trivia_challenge\trivia_challenge\trivia_challenge.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\trivia_challenge.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt trivia_challenge.cpp
+  trivia_challenge.cpp
+c:\users\ieuser\documents\visual studio 2013\projects\trivia_challenge\trivia_challenge\trivia_challenge.cpp(44): warning C4554: '|' : check operator precedence for possible error; use parentheses to clarify precedence
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\trivia_challenge\Debug\trivia_challenge.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\trivia_challenge\Debug\trivia_challenge.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\trivia_challenge\Debug\trivia_challenge.lib" /MACHINE:X86 Debug\stdafx.obj
+  Debug\trivia_challenge.obj
+  trivia_challenge.vcxproj -> C:\Users\IEUser\Documents\Visual Studio 2013\Projects\trivia_challenge\Debug\trivia_challenge.exe
+Done Building Project "C:\Users\IEUser\Documents\Visual Studio 2013\Projects\trivia_challenge\trivia_challenge\trivia_challenge.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.21
